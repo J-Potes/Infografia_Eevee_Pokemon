@@ -6,3 +6,6 @@
 
 ### Link
 - Live Site URL: [https://infografiaeeveepokemon.netlify.app/](https://infografiaeeveepokemon.netlify.app/)
+
+### About
+This infographic was made with Google Web Designer
